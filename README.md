@@ -3,4 +3,4 @@
 
 {CISCO CERTIFICATE PDF}->https://github.com/krishna-code1/EDS-Assignment/blob/main/cisco%20certificate%20(1).PDF
 
-{Codetantra Lab Completation PDF} ->https://github.com/krishna-code1/EDS-Assignment/commit/94959cc1869a77659ebe6899edc925f7dd2217be
+{Codetantra Lab Completation PDF} ->https://github.com/krishna-code1/EDS-Assignment/blob/main/CODETANTRA.pdf
