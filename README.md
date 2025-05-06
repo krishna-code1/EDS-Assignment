@@ -3,4 +3,4 @@
 
 {CISCO CERTIFICATE PDF}->https://github.com/krishna-code1/EDS-Assignment/blob/main/cisco%20certificate%20(1).PDF
 
-{Codetantra Lab Completation screen shot} ->https://github.com/krishna-code1/EDS-Assignment/blob/main/Screenshot%20(215).png
+{Codetantra Lab Completation PDF} ->"C:\Users\krish\Documents\KRISHNA CODETANTRA.pdf"
